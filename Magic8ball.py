@@ -1,6 +1,6 @@
 import random
 
-#Requests name of Magic 8 ball user and sets as the variable 'name'
+
 name = input('What is your name?: \n')
 
 print('Hello, ', name)
@@ -8,11 +8,11 @@ print('Hello, ', name)
 
 def main ():
     
-    #prompts the user to ask a question of the magic 8 ball
+    
 
     question = input('What question do you have for the Magic 8 ball?: \n')
 
-    #variable for script to store answer to users question
+ 
 
     answer = ''
 
